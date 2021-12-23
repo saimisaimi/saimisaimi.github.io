@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/23/test/"/>
+      <url>/2021/12/23/test/</url>
+      
+        <content type="html"><![CDATA[<p>这是第一个示例！</p><h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> dhx </tag>
+            
+            <tag> vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一次创建新文章</title>
+      <link href="/2021/12/23/hello-world/"/>
+      <url>/2021/12/23/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>这是文档给我的第一个示例！</p><h2 id="快速开始"><a class="header-anchor" href="#快速开始">¶</a>快速开始</h2><h3 id="如何去创建新的文章（建议在根目录下打开Git-Bash，再去操作）"><a class="header-anchor" href="#如何去创建新的文章（建议在根目录下打开Git-Bash，再去操作）">¶</a>如何去创建新的文章（建议在根目录下打开Git Bash，再去操作）</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><h3 id="启动本地服务"><a class="header-anchor" href="#启动本地服务">¶</a>启动本地服务</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><h3 id="随后生成项目"><a class="header-anchor" href="#随后生成项目">¶</a>随后生成项目</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><h3 id="部署在远端服务器"><a class="header-anchor" href="#部署在远端服务器">¶</a>部署在远端服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> new </tag>
+            
+            <tag> generate </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
